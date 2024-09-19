@@ -1,0 +1,84 @@
+.header {
+  background-color: #0A8394;
+  height: 60px;
+  margin: 18px 25px 18px 18px;
+  border-radius: 7px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  width: 97%;
+}
+
+.nav-box {
+  background-color: #0a8394;
+  width: 261px;
+  padding: 16px 60px;
+  color: white;
+  border-radius: 10px;
+  margin: 10px 19px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.navbox-text {
+  font-size: 23px;
+}
+
+.map-visuals {
+  width: 133px;
+  margin-left: 29px;
+  border: solid 1px #797979;
+  font-size: 11px;
+  padding: 14px 18px;
+  margin-top: 26px;
+  height: 102px;
+  margin-right: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.filling-status-table {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  margin-left: 426px !important;
+  margin-top: -7px !important;
+  height: 258px !important;
+}
+
+.header-box {
+  display: flex;
+}
+
+.dropdown {
+  width: 62px;
+  margin-top: 20px;
+}
+
+.first-row {
+  display: flex;
+  flex-direction: row;
+  margin-left: 401px;
+  margin-top: -561px
+}
+
+.second-row {
+  display: flex;
+  width: 500px;
+
+}
+
+.table-first-row {
+  flex: 1;
+}
+
+.graph-second-row {
+  flex: 2;
+}
